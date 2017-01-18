@@ -27,7 +27,6 @@
         <module>linden-common</module>
         <module>linden-plugins</module>
         <module>linden-core</module>
-        <module>linden-java-client</module>
         <module>linden-hadoop-indexing</module>
         <module>demo</module>
     </modules>
